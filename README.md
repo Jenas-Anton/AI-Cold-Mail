@@ -185,4 +185,3 @@ For support:
 
 ---
 
-Made with ❤️ by Your Name
